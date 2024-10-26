@@ -1,8 +1,8 @@
 ## 👋 Hello, World! I'm Myriam Kerkeni!
 
-Once upon a time in the land of dietetics, I discovered my passion for **software engineering** at 42 Nice, and now I’m navigating the exciting world of coding! 💻✨
+Once upon a time in the land of dietetics, I discovered my passion for **software engineering** at 42 Nice, and now I’m exploring the exciting world of coding! 💻✨
 
-Currently, I’m diving into the exciting world of **Python**, **Django**, and **SQL** as I work on my last common core project, ft_transcendence—a dynamic website that lets users play Pong and chat in real time! 🕹️💬
+Currently, I’m immersing myself in **Python**, **Django**, and **SQL** as I work on my last common core project, ft_transcendence—a dynamic website that lets users play Pong and chat in real time! 🕹️💬
 
 ## 🚀 What I’m Up To
 - **Building Awesome Projects**: With ft_transcendence, I’m teaming up with my awesome group to blend gaming and communication, creating a space where users can challenge each other in Pong while sharing laughs and strategies in a live chat! 
