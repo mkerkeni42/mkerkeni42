@@ -2,7 +2,7 @@
 
 **Backend developer focused on Python and Django · 42 Nice alumna · Based in Nice, France**
 
-After starting my career in dietetics, I transitioned into software development and completed the 42 Nice common core in January 2025.
+After starting my career in dietetics, I transitioned into software development and completed the 42 Nice common core in February 2025.
 
 I enjoy understanding how systems work, solving problems, and collaborating with others. My current focus is building backend applications with Python, Django, and relational databases.
 
