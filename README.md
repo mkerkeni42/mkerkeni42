@@ -1,4 +1,4 @@
-# Hi, I’m Myriam Kerkeni
+# Hi, I’m Myriam K.
 
 **Backend developer focused on Python and Django · 42 Nice alumna · Based in Nice, France**
 
