@@ -1,23 +1,34 @@
-## 👋 Hello, World! I'm Myriam Kerkeni!
+# Hi, I’m Myriam Kerkeni
 
-Once upon a time in the land of dietetics, I discovered my passion for **software engineering** at 42 Nice, and now I’m exploring the exciting world of coding! 💻✨
+**Backend developer focused on Python and Django · 42 Nice alumna · Based in Nice, France**
 
-Currently, I’m immersing myself in **Python**, **Django**, and **SQL** as I work on my last common core project, ft_transcendence—a dynamic website that lets users play Pong and chat in real time! 🕹️💬
+After starting my career in dietetics, I transitioned into software development and completed the 42 Nice common core in January 2025.
 
-## 🚀 What I’m Up To
-- **Building Awesome Projects**: With ft_transcendence, I’m teaming up with my awesome group to blend gaming and communication, creating a space where users can challenge each other in Pong while sharing laughs and strategies in a live chat! 
+I enjoy understanding how systems work, solving problems, and collaborating with others. My current focus is building backend applications with Python, Django, and relational databases.
 
-- **Teamwork Makes the Dream Work**: Collaborating with my talented teammates has been a highlight. Together, we tackle challenges, share laughs, and occasionally wonder why we chose to code instead of napping. 😴💤  
+## Technical skills
 
-- **Learning Every Day**: Each project is a new opportunity to learn something exciting (or at least to debug furiously)!
+- **Backend:** Python, Django, Django REST Framework
+- **Databases:** PostgreSQL, SQLite, SQL
+- **Real-time communication:** Django Channels, WebSockets, Redis
+- **Tools:** Git, Docker, Docker Compose, Linux
+- **Other languages:** C, C++
 
-## 🎉 Fun Facts About Me
-- I can cook delicious cannellonis, but I'm still figuring out how to cook up clean code! 🍝🧑‍🍳 
+## Selected projects
 
-- I love tuning into personal development podcasts to fuel my growth mindset—because who doesn’t want to be the best version of themselves? 🎧✨
+### ft_transcendence
+A multiplayer Pong web application developed as a team for the final 42 common core project. I was responsible for the backend, including REST APIs, JWT authentication, 42 OAuth integration, and real-time chat using Django Channels.
 
-- If I'm not coding, you can find me lost in a good drama series or singing along to my favorite tunes (even if my voice isn't the best)! 😄. 🎶  
+### Batiwise
+A business website built with Django and Django REST Framework, featuring a quote request API and automated confirmation emails. I also handled Docker deployment, static file serving, and configuration.
 
-So, welcome to my GitHub! Feel free to check out my projects, throw me a star or two, and let’s connect!  
+### Other 42 projects
+- **Minishell:** A shell implementation in C, exploring processes, pipes, redirections, and file descriptors.
+- **IRC:** An IRC server built in C++, involving socket programming and client communication.
+- **Inception:** A containerized environment built with Docker Compose.
 
-Let’s code, create, and conquer the digital world together! 🌍💻
+## Current focus
+
+Deepening my knowledge of Python, Django, and SQL through practical projects, with an emphasis on maintainable code and reliable backend systems.
+
+I’m looking for a **junior backend developer role**, ideally fully remote, where I can contribute, learn from experienced developers, and grow within a collaborative team.
